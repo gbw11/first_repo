@@ -1,4 +1,4 @@
-arr = ["MC", "BTS", "BTS", "MC", "BTS"]
+arr = list(input().split())
 
 d = dict()
 

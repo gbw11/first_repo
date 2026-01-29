@@ -7,4 +7,4 @@ def find_even(arr):
         
     return 0
 
-print(find_even(arr)) 
+print(find_even(arr))
